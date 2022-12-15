@@ -1,0 +1,6 @@
+[submodule "graphic_arts/graphic_arts"]
+	path = graphic_arts/graphic_arts
+	url = https://github.com/Turonk/graphic_arts
+[submodule "graphic_arts"]
+	path = graphic_arts
+	url = https://github.com/juzessa/graphic_arts
